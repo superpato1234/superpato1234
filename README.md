@@ -3,13 +3,13 @@
 ![](https://komarev.com/ghpvc/?username=superpato1234&color=blueviolet)
 
 
-<div align="center">i'm a software developper, i ❤️ skate, dance and music</div>
+<div align="center">I'm a software developper, i ❤️ skate, dance and music</div>
 
 
 ## About me
 - 🏠 MÉXICO
-- 📍 i´m currently doing intership on FixterGeek
-- 🌱 i´m learning React and java
+- 📍 I´m currently doing intership on FixterGeek
+- 🌱 I´m learning React and java
 - 🥇 I was national champion of robotics in 2015
 - 📫 collab **luis.pablo.10sm@gamil.com**
 

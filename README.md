@@ -11,7 +11,7 @@
 - 📍 I´m currently doing intership on FixterGeek
 - 🌱 I´m learning React and java
 - 🥇 I was national champion of robotics in 2015
-- 📫 collab **luis.pablo.10sm@gamil.com**
+- 📫 collab **luis.pablo.10sm@gmail.com**
 
 <br>
 

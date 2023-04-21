@@ -23,15 +23,15 @@
 
 <h2 align="center">Social Network </h2>
 <div align="center">
-<a href="http://www.facebook.com/LuisPSM"><img src="https://image.flaticon.com/icons/png/512/1384/1384053.png" alt="Facebook" width="30px"></a>
+<a href="http://www.facebook.com/LuisPSM">Facebook</a>
 &nbsp&nbsp&nbsp
-<a href="https://www.instagram.com/luispab_1234/"><img src="https://image.flaticon.com/icons/png/512/1384/1384063.png" alt="Instagram" width="30px"> </a>
+<a href="https://www.instagram.com/luispab_1234/">Instagram</a>
 &nbsp&nbsp&nbsp
-<a href="https://twitter.com/LuiisPabloo"><img src="https://image.flaticon.com/icons/png/512/733/733579.png" alt="Twitter" width="30px"></a>
+<a href="https://twitter.com/LuiisPabloo">Twitter</a>
 &nbsp&nbsp&nbsp
-<a href="https://www.linkedin.com/in/luis-pablo-serrano-mu%C3%B1oz-30807119a/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" width="30px"></a>
+<a href="https://www.linkedin.com/in/luis-pablo-serrano-mu%C3%B1oz-30807119a/">LinkedIn</a>
 &nbsp&nbsp&nbsp
-<a href="mailto:luis.pablo.10sm@gmail.com"><img src="https://image.flaticon.com/icons/png/512/732/732200.png" alt="Gmail" width="30px"></a>
+<a href="mailto:luis.pablo.10sm@gmail.com">Mail</a>
 </div>
 
 
